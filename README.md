@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 - ![NikkiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkidev&count_private=true)
+- ![NikkiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkidev&show_icons=true)
 <!--
 **NikkiDev/NikkiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
