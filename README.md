@@ -1,5 +1,3 @@
-### Hi there 👋
-- 🌱 I’m currently mastering JS & React ...
 
 ![NikkiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkidev&show_icons=true&theme=blue-green&border-radius=10)
 <!--
