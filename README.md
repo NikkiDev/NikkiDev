@@ -1,4 +1,5 @@
 
+![NikkiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkidev&show_icons=true&theme=blue-green&border-radius=10)
 <!--
 **NikkiDev/NikkiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
